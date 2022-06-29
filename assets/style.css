@@ -1,0 +1,10 @@
+header {
+	height: 4rem;
+	background-color: salmon;
+}
+
+footer {
+	height: 5rem;
+	background-color: black;
+	color: beige;
+}
